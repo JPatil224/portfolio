@@ -11,3 +11,11 @@ This version includes the IBM SkillsBuild items and Soft Skills Development Prog
 
 ## Website
 https://jpatil224.github.io/portfolio/
+
+
+## Recently added certificate entries
+- Bootcamp on Robotic Process Automation (RPA) — NIELIT Aurangabad, 10–14 September 2025
+- Employability Skill Training Programme — Mahindra Pride Classroom, Naandi Foundation
+- Swayambhu 2026 Certificate of Achievement — First Position, JNEC, MGM University
+
+Please verify the exact event name and the Employability training date against the original certificates before publishing those details. Certificate images and verification URLs can be added when available.
